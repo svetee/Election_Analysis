@@ -13,9 +13,9 @@ A Colorado Board of Elections employee requested help in completing an election 
 
 ## Election-Audit Results:
 
-The analysis of the election show that:
+The election audit shows: 
 
-* There were 369,711 votes cast in the election.
+* A total of 369,711 votes cast in the election.
 * The candidates were:
 	- Charles Casper Stockham
 	- Diana DeGette
@@ -24,6 +24,11 @@ The analysis of the election show that:
 	- Charles Casper Stockham received **_23.0%_** of the vote and _85,213_ number of votes.
 	- Diana DeGette received **_73.8%_** of the vote and _272,892_ number of votes.
 	- Raymon Anthony Doane received **_3.1%_** of the vote and _11,606_ number of votes.
+  
+  
+  
+  ## The Winner
+  
   
          The **winner** of the election was:
 
