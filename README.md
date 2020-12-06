@@ -88,10 +88,10 @@ Election Winner:
 	
 This script can be used for any election if the script is modified. Two examples to modify the scrip are below: 
 
-* 1. Load different data into the script by changing this command line to the new data source
-	# Assign a variable to load a file from a path.
+* Load different data into the script by changing this command line to the new data source
+	Assign a variable to load a file from a path.
 	file_to_load = os.path.join("Resources", "election_results.csv")
-* 2. Include an option for election results not to account for counties since many countries don't have this system
+* Include an option for election results not to account for counties since many countries don't have this system
   	Challenge: Track the largest county voter turnout and its percentage
 	largest_county_turnout = ""
 	largest_county_vote = 0
